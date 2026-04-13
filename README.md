@@ -1,23 +1,41 @@
 # Hello!
+
 I’m mintani.I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>
 
 ## 💻My Skills
+
 ### ≥Programming Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,python)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,python&theme=light)
+
 ### 🏗️Frameworks
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,prisma,tailwindcss,shadcnui&theme=light)(https://skillicons.dev)
-![My Skills](https://skillicons.dev/icons?i=hono,fastapi,elysia,&theme=light)(https://skillicons.dev)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,prisma,tailwindcss,shadcn&theme=light)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,fastapi,&theme=light)
+
 ### 🔧Tools/Platforms
-![My Skills](https://skillicons.dev/icons?i=figma,docker,aws,pnpm,bun,vercel,github&theme=light)(https://skillicons.dev)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,docker,aws,pnpm,bun,vercel,github&theme=light)
+
 ### ⌨️IDEs
-![My Skills](https://skillicons.dev/icons?i=vscode,antigravity,cursor&theme=light)(https://skillicons.dev)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor&theme=light)
+
 ## 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=mintani&theme=vue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=mintani&theme=vue&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mintani&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mintani_2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_mint76) 
 
-[![](https://komarev.com/ghpvc/?username=mintani&icon=0&color=0)](https://visitcount.itsvg.in)
+- Discord
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/1301785086001152001)](https://discord.com/users/1301785086001152001)
+
+- Twitter: [@_mint76](https://twitter.com/_mint76)
+- Email: mi.2005.sub@gmail.com
+
