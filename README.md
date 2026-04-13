@@ -8,12 +8,12 @@ I’m mintani.I’m currently studying computer/data science on NIT(Nippon Insti
 ## 💻My Skills
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=typescript,python,c&theme=light)](https://skillicons.dev)
-### Frameworks
+### 🏗️Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,prisma,tailwindcss,shadcnui&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=hono,fastapi,elysia,&theme=light)](https://skillicons.dev)
-### Tools/Platforms
+### 🔧Tools/Platforms
 [![My Skills](https://skillicons.dev/icons?i=figma,docker,aws,pnpm,bun,vercel,github&theme=light)](https://skillicons.dev)
-### IDEs
+### ⌨️IDEs
 [![My Skills](https://skillicons.dev/icons?i=vscode,antigravity,cursor&theme=light)](https://skillicons.dev)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mintani&theme=vue&hide_border=false&include_all_commits=true&count_private=false)<br/>
