@@ -1,4 +1,4 @@
-# Hello!
+# 👋🏻Hello!
 
 I’m mintani.I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>
 
