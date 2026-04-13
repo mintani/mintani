@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>🌱 I’m currently learning Web technology.
+# Hello
+I’m mintani.I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>
 
 
 ## 🌐 Socials:
