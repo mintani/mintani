@@ -1,11 +1,11 @@
-# Hello
+# Hello!
 I’m mintani.I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>
 
 
-## 🌐 Socials:
+## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mintani_2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_mint76) 
 
-# 💻 My Skills:
+## 💻My Skills
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=typescript,python,c&theme=light)](https://skillicons.dev)
 ### Frameworks
