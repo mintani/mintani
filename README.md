@@ -32,8 +32,6 @@ I’m mintani.I’m currently studying computer/data science on NIT(Nippon Insti
 
 ## 🌐Socials
 
-- Discord Link
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/1301785086001152001)](https://discord.com/users/1301785086001152001)
 
 - Twitter: [@_mint76](https://twitter.com/_mint76)
