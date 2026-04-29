@@ -12,7 +12,7 @@ I’m mintani.I’m currently studying computer/data science on NIT(Nippon Insti
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,prisma,tailwindcss,shadcn&theme=light)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,fastapi,&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,fastapi,better-auth&theme=light)
 
 ### 🔧Tools/Platforms
 
