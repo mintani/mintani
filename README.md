@@ -1,6 +1,7 @@
 # 👋🏻Hello!
 
 I’m mintani.I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>
+Now working at Sophiate(株式会社ソフィエイト).
 
 ## 💻My Skills
 
