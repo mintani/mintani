@@ -1,6 +1,6 @@
 # 👋🏻Hello!
 
-I’m mintani.I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>
+I’m mintani.　I’m currently studying computer/data science on NIT(Nippon Institute of University)<br>
 I’m working at Alaia.
 
 ## 💻My Skills
